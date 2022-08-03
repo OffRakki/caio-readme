@@ -25,7 +25,7 @@
   - ```css
       docker-compose up -d --build
 4. Conecte-se a um gerenciador de banco de dados com os seguintes dados (Essa conexão será nescessária para criar o banco de dados):
-  - ```rust
+  - ```css
     host='localhost',
     user='root',
     port='3306',
