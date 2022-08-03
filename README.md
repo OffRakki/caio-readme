@@ -19,7 +19,7 @@
     - ```bash
         cd Project-Blogs-API
 2. Instale as dependencia com o comando:
-  - ```bash
+  - ```css
       npm install
 3. Suba o container Docker com o comando:
   - ```css
@@ -31,18 +31,18 @@
   - `password='password'`,
   (Essa conexão será nescessária para criar o banco de dados)
 5. Entre no terminal do container Docker com o comando:
-  - ```bash
+  - ```css
       docker exec -it blogs_api bash
 - Os comandos a seguir devem ser realizados dentro do terminal do container!
 
 6. Suba o banco de dados com o comando:
-  - ```bash 
+  - ```css 
       npm run prestart   
 7. Popule o banco de dados com o comando:
-  - ```bash
+  - ```css
       npm run seed
 8. Por fim inicie a aplicação com o comando:
-  - ```bash
+  - ```css
       npm start
 ---
 
