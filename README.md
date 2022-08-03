@@ -14,7 +14,7 @@
 
 1. Clone o repositório com o comando:
   - ```bash
-      git clone git@github.com:caioBatistaDosSantos/Project-Blogs-API.git
+      git clone git@github.com:caioBatistaDosSantos/Project-Blogs-API.git;
 - Entre na pasta do repositório:
     - ```bash
         cd Project-Blogs-API
@@ -26,9 +26,9 @@
       docker-compose up -d --build
 4. Conecte-se a um gerenciador de banco de dados com os seguintes dados:
   - `host='localhost'`,
-  - `user='root'`,
-  - `port='3306'`,
-  - `password='password'`,
+   `user='root'`,
+   `port='3306'`,
+   `password='password'`,
   (Essa conexão será nescessária para criar o banco de dados)
 5. Entre no terminal do container Docker com o comando:
   - ```css
