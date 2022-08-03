@@ -13,7 +13,7 @@
 - Para rodar este projeto localmente você vai precisar ter instalado o Docker, GitHub, Node e um gerenciador de banco de dados, e basta seguir o passo a passo abaixo.
 
 1. Clone o repositório com o comando:
-  - ```bash
+  - ```git
       git clone git@github.com:caioBatistaDosSantos/Project-Blogs-API.git
 - Entre na pasta do repositório:
     - ```bash
