@@ -24,12 +24,12 @@
 3. Suba o container Docker com o comando:
   - ```css
       docker-compose up -d --build
-4. Conecte-se a um gerenciador de banco de dados com os seguintes dados:
-  - `host='localhost'`,
-   `user='root'`,
-   `port='3306'`,
-   `password='password'`,
-  (Essa conexão será nescessária para criar o banco de dados)
+4. Conecte-se a um gerenciador de banco de dados com os seguintes dados (Essa conexão será nescessária para criar o banco de dados):
+  - ```rust
+    host='localhost',
+    user='root',
+    port='3306',
+    password='password',
 5. Entre no terminal do container Docker com o comando:
   - ```css
       docker exec -it blogs_api bash
