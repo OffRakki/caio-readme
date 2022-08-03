@@ -14,7 +14,7 @@
 
 1. Clone o repositório com o comando:
   - ```bash
-      git clone git@github.com:caioBatistaDosSantos/Project-Blogs-API.git;
+      git clone git@github.com:caioBatistaDosSantos/Project-Blogs-API.git
 - Entre na pasta do repositório:
     - ```bash
         cd Project-Blogs-API
